@@ -1,0 +1,8 @@
+{
+  "name": "Empire Jukebox",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "e2f01172"
+}

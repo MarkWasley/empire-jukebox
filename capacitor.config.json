@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Empire Jukebox",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
